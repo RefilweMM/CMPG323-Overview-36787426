@@ -2,7 +2,7 @@
 Five project repositories will be created, one for each project (including this repository). Therefore:
 CMPG323 Project 2 (for project 2), CMPG323 Project 3 (for project 3), CMPG323 Project 4 (for project 4), and CMPG323 Project 5 (for project 5).
 
-<img src="https://github.com/RefilweMM/CMPG323-Overview-36787426/blob/main/README%20diagram.png" width="750" height="500" alt="Flowers in Chania">
+<img src="https://github.com/RefilweMM/CMPG323-Overview-36787426/blob/main/Overview%20Diagram.png" width="750" height="500" alt="Flowers in Chania">
 
 #
 
