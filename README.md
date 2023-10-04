@@ -20,8 +20,13 @@ A gitignore file is essentially used when you don't want to track 'unnecessary' 
 
 ## Storage of credentials and sensitive information
 
-It is not recommended to store sensitive information on GitHub, therefore I will be making use of Azure keyvolt.
+It is not recommended to store sensitive information on GitHub, therefore I will be making use of Azure keyvolt and/or use .gitignore file to remove sensitive information on GitHub.
 
 #
+I honestly forgot to update my overview README file throughout project completions, therefore I excluded progress documentation for Project 2 and Project 3, and continued for Project 4 and 5.
+#
+
+
+
 
 
