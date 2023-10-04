@@ -30,7 +30,7 @@ I honestly forgot to update my overview README file throughout project completio
 
 ### Project 4 progress:
 
-*4 Oct 2023(Wed)*
+*4 Oct 2023 (Wed)*
 - Familiarized myself with the requirements of project 4.
 - Updated GitHub Kanban project to fit tasks and activities required for Project 3.
 - Initialized my Project 4 README file to include what the project is about.
